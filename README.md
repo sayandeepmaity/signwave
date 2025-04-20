@@ -49,7 +49,7 @@ SignWave addresses these issues by providing:
 
 ---
 
-## 📥 Data Collection
+##  Data Collection
 
 **Script:** `datacollection.py`
 
